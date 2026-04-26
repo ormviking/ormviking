@@ -36,67 +36,63 @@ so they are clean, structured and ready to scale.
 <!-- CENTER -->
 <td width="33%" align="center">
 
-<b>🧰 Admin Panels & Platforms</b><br><br>
+<h3 align="center">🧰 Admin Panels & Platforms</h3>
 
-<table align="center">
-<tr>
+<div align="center">
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="60"/><br>
-WooCommerce
-</td>
+<!-- ROW 1 -->
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="64"><br>
+  WooCommerce
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="64"><br>
+  PrestaShop
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="64"><br>
+  WordPress
+</span>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prestashop.svg" width="60" style="filter: invert(1);"/><br>
-PrestaShop
-</td>
+<br><br><br>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="60"/><br>
-WordPress
-</td>
+<!-- ROW 2 -->
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" width="64"><br>
+  Webflow
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="64"><br>
+  OpenCart
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" width="64"><br>
+  Bitrix24
+</span>
 
-</tr>
+<br><br><br>
 
-<tr>
+<!-- ROW 3 -->
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="64"><br>
+  MODX
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/888/888841.png" width="64"><br>
+  Amazon
+</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<span>
+  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="64"><br>
+  Other CMS
+</span>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="60"/><br>
-Webflow
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/opencart.svg" width="60" style="filter: invert(1);"/><br>
-OpenCart
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bitrix.svg" width="60" style="filter: invert(1);"/><br>
-Bitrix24
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/modx.svg" width="60" style="filter: invert(1);"/><br>
-MODX
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/><br>
-Amazon
-</td>
-
-<td align="center">
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="60"/><br>
-Other CMS
-</td>
-
-</tr>
-</table>
-
+</div>
 </td>
 
 <!-- RIGHT -->
