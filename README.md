@@ -9,16 +9,54 @@ so they are clean, structured and ready to scale.
   <img src="https://img.shields.io/badge/Organized-2ea043?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solver-f0883e?style=for-the-badge&logoColor=white" />
 </p>
-## 🛠️ What I Do | 🧰 Admin Panels & Platforms | 📊 Tools & Skills
 
-| What I Do | Admin Panels & Platforms | Tools & Skills |
-|----------|--------------------------|----------------|
-| ✔ Product Listing & Upload | WooCommerce | Microsoft Excel (Advanced) |
-| ✔ Catalog Management | PrestaShop | Google Sheets |
-| ✔ Data Cleaning & Structuring | WordPress | CSV / Flat File Management |
-| ✔ Bulk Uploads (CSV, Excel, Flat Files) | Webflow | Data Cleaning & Deduplication |
-| ✔ Multilingual Product Content | OpenCart | Basic Image Editing (Resize, Optimize) |
-| ✔ Image & File Organization | Bitrix / Bitrix24 | File Management |
-|  | MODX | Attention to Detail |
-|  | Amazon | Strong Organizational Skills |
-|  | Other Custom CMS |  |
+<h2>🛠️ What I Do &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🧰 Admin Panels & Platforms &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 📊 Tools & Skills</h2>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<b>What I Do</b><br><br>
+
+✔ Product Listing & Upload<br>
+✔ Catalog Management<br>
+✔ Data Cleaning & Structuring<br>
+✔ Bulk Uploads (CSV, Excel, Flat Files)<br>
+✔ Multilingual Product Content<br>
+✔ Image & File Organization
+
+</td>
+
+<td width="33%" valign="top">
+
+<b>Admin Panels & Platforms</b><br><br>
+
+<img src="https://cdn.simpleicons.org/woocommerce/96588a" width="20"/> WooCommerce<br>
+<img src="https://cdn.simpleicons.org/prestashop/df0067" width="20"/> PrestaShop<br>
+<img src="https://cdn.simpleicons.org/wordpress/21759b" width="20"/> WordPress<br>
+<img src="https://cdn.simpleicons.org/webflow/4353ff" width="20"/> Webflow<br>
+<img src="https://cdn.simpleicons.org/opencart/00c1f2" width="20"/> OpenCart<br>
+<img src="https://cdn.simpleicons.org/bitrix/00a3e0" width="20"/> Bitrix / Bitrix24<br>
+<img src="https://cdn.simpleicons.org/modx/102c53" width="20"/> MODX<br>
+<img src="https://cdn.simpleicons.org/amazon/ff9900" width="20"/> Amazon<br>
+
+Other Custom CMS
+
+</td>
+
+<td width="33%" valign="top">
+
+<b>Tools & Skills</b><br><br>
+
+• Microsoft Excel (Advanced)<br>
+• Google Sheets<br>
+• CSV / Flat File Management<br>
+• Data Cleaning & Deduplication<br>
+• Basic Image Editing (Resize, Optimize)<br>
+• File Management<br>
+• Attention to Detail<br>
+• Strong Organizational Skills
+
+</td>
+</tr>
+</table>
