@@ -19,7 +19,7 @@ so they are clean, structured and ready to scale.
 <table align="center" width="100%">
 <tr>
 
-<!-- LEFT COLUMN -->
+<!-- LEFT -->
 <td width="33%" valign="top">
 
 <b>🛠️ What I Do</b><br><br>
@@ -33,61 +33,73 @@ so they are clean, structured and ready to scale.
 
 </td>
 
-<!-- CENTER COLUMN -->
+<!-- CENTER -->
 <td width="33%" align="center">
 
 <b>🧰 Admin Panels & Platforms</b><br><br>
 
-<table>
+<table align="center">
 <tr>
-<td align="center" width="110">
+
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="60"/><br>
 WooCommerce
 </td>
-<td align="center" width="110">
+
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prestashop.svg" width="60" style="filter: invert(1);"/><br>
 PrestaShop
 </td>
-<td align="center" width="110">
+
+<td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="60"/><br>
 WordPress
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="60"/><br>
 Webflow
 </td>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/opencart.svg" width="60" style="filter: invert(1);"/><br>
 OpenCart
 </td>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bitrix.svg" width="60" style="filter: invert(1);"/><br>
 Bitrix24
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/modx.svg" width="60" style="filter: invert(1);"/><br>
 MODX
 </td>
+
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/><br>
 Amazon
 </td>
+
 <td align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="60"/><br>
 Other CMS
 </td>
+
 </tr>
 </table>
 
 </td>
 
-<!-- RIGHT COLUMN -->
+<!-- RIGHT -->
 <td width="33%" valign="top">
 
 <b>📊 Tools & Skills</b><br><br>
