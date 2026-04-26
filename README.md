@@ -9,3 +9,16 @@ so they are clean, structured and ready to scale.
   <img src="https://img.shields.io/badge/Organized-2ea043?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solver-f0883e?style=for-the-badge&logoColor=white" />
 </p>
+## 🛠️ What I Do | 🧰 Admin Panels & Platforms | 📊 Tools & Skills
+
+| What I Do | Admin Panels & Platforms | Tools & Skills |
+|----------|--------------------------|----------------|
+| ✔ Product Listing & Upload | WooCommerce | Microsoft Excel (Advanced) |
+| ✔ Catalog Management | PrestaShop | Google Sheets |
+| ✔ Data Cleaning & Structuring | WordPress | CSV / Flat File Management |
+| ✔ Bulk Uploads (CSV, Excel, Flat Files) | Webflow | Data Cleaning & Deduplication |
+| ✔ Multilingual Product Content | OpenCart | Basic Image Editing (Resize, Optimize) |
+| ✔ Image & File Organization | Bitrix / Bitrix24 | File Management |
+|  | MODX | Attention to Detail |
+|  | Amazon | Strong Organizational Skills |
+|  | Other Custom CMS |  |
