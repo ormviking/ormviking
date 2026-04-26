@@ -10,53 +10,79 @@ so they are clean, structured and ready to scale.
   <img src="https://img.shields.io/badge/Problem%20Solver-f0883e?style=for-the-badge&logoColor=white" />
 </p>
 
-<h2>🛠️ What I Do &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🧰 Admin Panels & Platforms &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 📊 Tools & Skills</h2>
+<h2 align="center">🛠️ What I Do &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🧰 Admin Panels & Platforms &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 📊 Tools & Skills</h2>
 
-<table>
+<table align="center">
 <tr>
-<td width="33%" valign="top">
 
-<b>What I Do</b><br><br>
+<!-- COLUMN 1 -->
+<td width="300px" valign="top">
 
-✔ Product Listing & Upload<br>
-✔ Catalog Management<br>
-✔ Data Cleaning & Structuring<br>
-✔ Bulk Uploads (CSV, Excel, Flat Files)<br>
-✔ Multilingual Product Content<br>
-✔ Image & File Organization
+<h3 align="center">🛠️ What I Do</h3>
+
+<ul>
+<li>✔ Product Listing & Upload</li>
+<li>✔ Catalog Management</li>
+<li>✔ Data Cleaning & Structuring</li>
+<li>✔ Bulk Uploads (CSV, Excel, Flat Files)</li>
+<li>✔ Multilingual Product Content</li>
+<li>✔ Image & File Organization</li>
+</ul>
 
 </td>
 
-<td width="33%" valign="top">
+<!-- COLUMN 2 -->
+<td width="300px" valign="top" align="center">
 
-<b>Admin Panels & Platforms</b><br><br>
+<h3>🧰 Admin Panels & Platforms</h3>
 
-<img src="https://cdn.simpleicons.org/woocommerce/96588a" width="20"/> WooCommerce<br>
-<img src="https://cdn.simpleicons.org/prestashop/df0067" width="20"/> PrestaShop<br>
-<img src="https://cdn.simpleicons.org/wordpress/21759b" width="20"/> WordPress<br>
-<img src="https://cdn.simpleicons.org/webflow/4353ff" width="20"/> Webflow<br>
-<img src="https://cdn.simpleicons.org/opencart/00c1f2" width="20"/> OpenCart<br>
-<img src="https://cdn.simpleicons.org/bitrix/00a3e0" width="20"/> Bitrix / Bitrix24<br>
-<img src="https://cdn.simpleicons.org/modx/102c53" width="20"/> MODX<br>
-<img src="https://cdn.simpleicons.org/amazon/ff9900" width="20"/> Amazon<br>
+<br>
+
+<img src="https://cdn.simpleicons.org/woocommerce" width="40"/><br>
+WooCommerce<br><br>
+
+<img src="https://cdn.simpleicons.org/prestashop" width="40"/><br>
+PrestaShop<br><br>
+
+<img src="https://cdn.simpleicons.org/wordpress" width="40"/><br>
+WordPress<br><br>
+
+<img src="https://cdn.simpleicons.org/webflow" width="40"/><br>
+Webflow<br><br>
+
+<img src="https://cdn.simpleicons.org/opencart" width="40"/><br>
+OpenCart<br><br>
+
+<img src="https://cdn.simpleicons.org/bitrix" width="40"/><br>
+Bitrix / Bitrix24<br><br>
+
+<img src="https://cdn.simpleicons.org/modx" width="40"/><br>
+MODX<br><br>
+
+<img src="https://cdn.simpleicons.org/amazon" width="40"/><br>
+Amazon<br><br>
 
 Other Custom CMS
 
 </td>
 
-<td width="33%" valign="top">
+<!-- COLUMN 3 -->
+<td width="300px" valign="top">
 
-<b>Tools & Skills</b><br><br>
+<h3 align="center">📊 Tools & Skills</h3>
 
-• Microsoft Excel (Advanced)<br>
-• Google Sheets<br>
-• CSV / Flat File Management<br>
-• Data Cleaning & Deduplication<br>
-• Basic Image Editing (Resize, Optimize)<br>
-• File Management<br>
-• Attention to Detail<br>
-• Strong Organizational Skills
+<ul>
+<li>• Microsoft Excel (Advanced)</li>
+<li>• Google Sheets</li>
+<li>• CSV / Flat File Management</li>
+<li>• Data Cleaning & Deduplication</li>
+<li>• Basic Image Editing (Resize, Optimize)</li>
+<li>• File Management</li>
+<li>• Attention to Detail</li>
+<li>• Strong Organizational Skills</li>
+</ul>
 
 </td>
+
 </tr>
 </table>
