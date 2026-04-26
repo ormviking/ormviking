@@ -16,7 +16,7 @@ so they are clean, structured and ready to scale.
 📊 Tools & Skills
 </h2>
 
-<table align="center" width="100%">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 
 <!-- LEFT -->
@@ -36,63 +36,76 @@ so they are clean, structured and ready to scale.
 <!-- CENTER -->
 <td width="33%" align="center">
 
-<h3 align="center">🧰 Admin Panels & Platforms</h3>
+<b>🧰 Admin Panels & Platforms</b><br><br>
 
 <div align="center">
 
 <!-- ROW 1 -->
 <span>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="64"><br>
-  WooCommerce
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="64"><br>
+WooCommerce
 </span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <span>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="64"><br>
-  PrestaShop
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="64"><br>
+PrestaShop
 </span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <span>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="64"><br>
-  WordPress
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="64"><br>
+WordPress
 </span>
 
 <br><br><br>
 
 <!-- ROW 2 -->
 <span>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" width="64"><br>
-  Webflow
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" width="64"><br>
+Webflow
 </span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <span>
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="64"><br>
-  OpenCart
+<img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="64"><br>
+OpenCart
 </span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <span>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" width="64"><br>
-  Bitrix24
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" width="64"><br>
+Bitrix24
 </span>
 
 <br><br><br>
 
 <!-- ROW 3 -->
 <span>
-  <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="64"><br>
-  MODX
+<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="64"><br>
+MODX
 </span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <span>
-  <img src="https://cdn-icons-png.flaticon.com/512/888/888841.png" width="64"><br>
-  Amazon
+<img src="https://cdn-icons-png.flaticon.com/512/888/888841.png" width="64"><br>
+Amazon
 </span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <span>
-  <img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="64"><br>
-  Other CMS
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="64"><br>
+Other CMS
 </span>
 
 </div>
+
 </td>
 
 <!-- RIGHT -->
