@@ -16,7 +16,7 @@ so they are clean, structured and ready to scale.
 📊 Tools & Skills
 </h2>
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+<table align="center" width="100%">
 <tr>
 
 <!-- LEFT -->
@@ -38,73 +38,60 @@ so they are clean, structured and ready to scale.
 
 <b>🧰 Admin Panels & Platforms</b><br><br>
 
-<div align="center">
+<table align="center">
 
-<!-- ROW 1 -->
-<span>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968853.png" width="64"><br>
+<tr>
+<td align="center">
+<img src="assets/icons/woocommerce.png" width="70"><br>
 WooCommerce
-</span>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="64"><br>
+<td align="center">
+<img src="assets/icons/prestashop.png" width="70"><br>
 PrestaShop
-</span>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" width="64"><br>
+<td align="center">
+<img src="assets/icons/wordpress.png" width="70"><br>
 WordPress
-</span>
+</td>
+</tr>
 
-<br><br><br>
-
-<!-- ROW 2 -->
-<span>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968704.png" width="64"><br>
+<tr>
+<td align="center">
+<img src="assets/icons/webflow.png" width="70"><br>
 Webflow
-</span>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://cdn-icons-png.flaticon.com/512/888/888857.png" width="64"><br>
+<td align="center">
+<img src="assets/icons/opencart.png" width="70"><br>
 OpenCart
-</span>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" width="64"><br>
+<td align="center">
+<img src="assets/icons/bitrix.png" width="70"><br>
 Bitrix24
-</span>
+</td>
+</tr>
 
-<br><br><br>
-
-<!-- ROW 3 -->
-<span>
-<img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="64"><br>
+<tr>
+<td align="center">
+<img src="assets/icons/modx.png" width="70"><br>
 MODX
-</span>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://cdn-icons-png.flaticon.com/512/888/888841.png" width="64"><br>
+<td align="center">
+<img src="assets/icons/amazon.png" width="70"><br>
 Amazon
-</span>
+</td>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<span>
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="64"><br>
+<td align="center">
+<img src="assets/icons/other.png" width="70"><br>
 Other CMS
-</span>
+</td>
+</tr>
 
-</div>
+</table>
 
 </td>
 
