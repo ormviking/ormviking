@@ -10,12 +10,6 @@ so they are clean, structured and ready to scale.
   <img src="https://img.shields.io/badge/Problem%20Solver-f0883e?style=for-the-badge&logoColor=white" />
 </p>
 
-<h2 align="center">
-🛠️ What I Do &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-🧰 Admin Panels & Platforms &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-📊 Tools & Skills
-</h2>
-
 <table align="center" width="100%">
 <tr>
 
