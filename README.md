@@ -113,51 +113,47 @@ Other CMS
 
 </tr>
 </table>
-<h3 align="center">⚙️ My Workflow</h3>
+<h2>My Workflow</h2>
 
-<p align="center">
-
-<span style="display:inline-block; width:140px;">
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="32"><br>
+<table>
+<tr>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/search.png"/><br>
 <b>1. Analyze</b><br>
-Review requirements<br>
-and access
-</span>
+<sub>Review requirements<br>and access</sub>
+</td>
 
-➡️
+<td align="center" width="40">→</td>
 
-<span style="display:inline-block; width:140px;">
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="32"><br>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/settings.png"/><br>
 <b>2. Prepare</b><br>
-Set up structure<br>
-and sample
-</span>
+<sub>Set up structure<br>and sample</sub>
+</td>
 
-➡️
+<td align="center" width="40">→</td>
 
-<span style="display:inline-block; width:140px;">
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828910.png" width="32"><br>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/upload.png"/><br>
 <b>3. Upload</b><br>
-Bulk upload & data<br>
-processing
-</span>
+<sub>Bulk upload & data<br>processing</sub>
+</td>
 
-➡️
+<td align="center" width="40">→</td>
 
-<span style="display:inline-block; width:140px;">
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828921.png" width="32"><br>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/checked.png"/><br>
 <b>4. Verify</b><br>
-Quality check<br>
-& error fixing
-</span>
+<sub>Quality check<br>& error fixing</sub>
+</td>
 
-➡️
+<td align="center" width="40">→</td>
 
-<span style="display:inline-block; width:140px;">
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828926.png" width="32"><br>
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/delivery.png"/><br>
 <b>5. Deliver</b><br>
-Final review<br>
-& delivery
-</span>
+<sub>Final review<br>& delivery</sub>
+</td>
 
-</p>
+</tr>
+</table>
