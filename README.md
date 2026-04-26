@@ -38,31 +38,52 @@ so they are clean, structured and ready to scale.
 
 <b>🧰 Admin Panels & Platforms</b><br><br>
 
-<p align="center">
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" width="60"/><br>
+WooCommerce
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/prestashop.svg" width="60" style="filter: invert(1);"/><br>
+PrestaShop
+</td>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="60"/><br>
+WordPress
+</td>
+</tr>
 
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white" height="40"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/PrestaShop-DF0067?style=flat&logo=prestashop&logoColor=white" height="40"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white" height="40"/>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" width="60"/><br>
+Webflow
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/opencart.svg" width="60" style="filter: invert(1);"/><br>
+OpenCart
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bitrix.svg" width="60" style="filter: invert(1);"/><br>
+Bitrix24
+</td>
+</tr>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Webflow-4353FF?style=flat&logo=webflow&logoColor=white" height="40"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/OpenCart-00C1F2?style=flat&logo=opencart&logoColor=white" height="40"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Bitrix24-00A3E0?style=flat" height="40"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/MODX-102C53?style=flat" height="40"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Amazon-FF9900?style=flat&logo=amazon&logoColor=black" height="40"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Other%20CMS-555?style=flat" height="40"/>
-
-</p>
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/modx.svg" width="60" style="filter: invert(1);"/><br>
+MODX
+</td>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="60"/><br>
+Amazon
+</td>
+<td align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="60"/><br>
+Other CMS
+</td>
+</tr>
+</table>
 
 </td>
 
