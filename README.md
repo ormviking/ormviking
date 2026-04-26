@@ -113,17 +113,22 @@ Other CMS
 
 </tr>
 </table>
-<h2>My Workflow</h2>
+<h2 align="center">My Workflow</h2>
+
+<div align="center">
 
 <table>
 <tr>
+
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/search.png"/><br>
 <b>1. Analyze</b><br>
 <sub>Review requirements<br>and access</sub>
 </td>
 
-<td align="center" width="40">→</td>
+<td align="center" width="60">
+<b style="font-size:28px;">➜</b>
+</td>
 
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/settings.png"/><br>
@@ -131,7 +136,9 @@ Other CMS
 <sub>Set up structure<br>and sample</sub>
 </td>
 
-<td align="center" width="40">→</td>
+<td align="center" width="60">
+<b style="font-size:28px;">➜</b>
+</td>
 
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/upload.png"/><br>
@@ -139,7 +146,9 @@ Other CMS
 <sub>Bulk upload & data<br>processing</sub>
 </td>
 
-<td align="center" width="40">→</td>
+<td align="center" width="60">
+<b style="font-size:28px;">➜</b>
+</td>
 
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/checked.png"/><br>
@@ -147,7 +156,9 @@ Other CMS
 <sub>Quality check<br>& error fixing</sub>
 </td>
 
-<td align="center" width="40">→</td>
+<td align="center" width="60">
+<b style="font-size:28px;">➜</b>
+</td>
 
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/delivery.png"/><br>
@@ -157,3 +168,5 @@ Other CMS
 
 </tr>
 </table>
+
+</div>
