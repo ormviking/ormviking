@@ -113,3 +113,58 @@ Other CMS
 
 </tr>
 </table>
+
+<h3 align="center">🧰 Admin Panels & Platforms</h3>
+
+<p align="center">
+
+<span style="display:inline-block; width:120px;">
+<img src="./assets/icons/woocommerce.png" width="60"><br>
+WooCommerce
+</span>
+
+<span style="display:inline-block; width:120px;">
+<img src="./assets/icons/prestashop.png" width="60"><br>
+PrestaShop
+</span>
+
+<span style="display:inline-block; width:120px;">
+<img src="./assets/icons/wordpress.png" width="60"><br>
+WordPress
+</span>
+
+<br><br>
+
+<span style="display:inline-block; width:120px;">
+<img src="./assets/icons/webflow.png" width="60"><br>
+Webflow
+</span>
+
+<span style="display:inline-block; width:120px;">
+<img src="./assets/icons/opencart.png" width="60"><br>
+OpenCart
+</span>
+
+<span style="display:inline-block; width:120px;">
+<img src="./assets/icons/bitrix.png" width="60"><br>
+Bitrix24
+</span>
+
+<br><br>
+
+<span style="display:inline-block; width:120px;">
+<img src="./assets/icons/modx.png" width="60"><br>
+MODX
+</span>
+
+<span style="display:inline-block; width:120px;">
+<img src="./assets/icons/amazon.png" width="60"><br>
+Amazon
+</span>
+
+<span style="display:inline-block; width:120px;">
+<img src="./assets/icons/other.png" width="60"><br>
+Other CMS
+</span>
+
+</p>
