@@ -117,7 +117,8 @@ Other CMS
 
 <p align="center">
 
-<span style="display:inline-block; width:150px;">
+<span style="display:inline-block; width:140px;">
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="32"><br>
 <b>1. Analyze</b><br>
 Review requirements<br>
 and access
@@ -125,7 +126,8 @@ and access
 
 ➡️
 
-<span style="display:inline-block; width:150px;">
+<span style="display:inline-block; width:140px;">
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828911.png" width="32"><br>
 <b>2. Prepare</b><br>
 Set up structure<br>
 and sample
@@ -133,7 +135,8 @@ and sample
 
 ➡️
 
-<span style="display:inline-block; width:150px;">
+<span style="display:inline-block; width:140px;">
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828910.png" width="32"><br>
 <b>3. Upload</b><br>
 Bulk upload & data<br>
 processing
@@ -141,7 +144,8 @@ processing
 
 ➡️
 
-<span style="display:inline-block; width:150px;">
+<span style="display:inline-block; width:140px;">
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828921.png" width="32"><br>
 <b>4. Verify</b><br>
 Quality check<br>
 & error fixing
@@ -149,7 +153,8 @@ Quality check<br>
 
 ➡️
 
-<span style="display:inline-block; width:150px;">
+<span style="display:inline-block; width:140px;">
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828926.png" width="32"><br>
 <b>5. Deliver</b><br>
 Final review<br>
 & delivery
