@@ -29,7 +29,7 @@ so they are clean, structured and ready to scale.
 </td>
 
 <!-- CENTER -->
-<td width="33%" align="center">
+<td width="33%" align="center" style="vertical-align: top;">
 
 <b>🧰 Admin Panels & Platforms</b><br><br>
 
@@ -37,51 +37,51 @@ so they are clean, structured and ready to scale.
 
 <tr>
 <td align="center">
-<img src="assets/icons/woocommerce.png" width="70"><br>
+<!--img src="assets/icons/woocommerce.png" width="70"--><br>
 WooCommerce
 </td>
 
 <td align="center">
-<img src="assets/icons/prestashop.png" width="70"><br>
+<!--img src="assets/icons/prestashop.png" width="70"--><br>
 PrestaShop
 </td>
 
 <td align="center">
-<img src="assets/icons/wordpress.png" width="70"><br>
+<!--img src="assets/icons/wordpress.png" width="70"--><br>
 WordPress
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="assets/icons/webflow.png" width="70"><br>
+<!--img src="assets/icons/webflow.png" width="70"--><br>
 Webflow
 </td>
 
 <td align="center">
-<img src="assets/icons/opencart.png" width="70"><br>
+<!--img src="assets/icons/opencart.png" width="70"--><br>
 OpenCart
 </td>
 
 <td align="center">
-<img src="assets/icons/bitrix.png" width="70"><br>
+<!--img src="assets/icons/bitrix.png" width="70"--><br>
 Bitrix24
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="assets/icons/modx.png" width="70"><br>
+<!--img src="assets/icons/modx.png" width="70"--><br>
 MODX
 </td>
 
 <td align="center">
-<img src="assets/icons/amazon.png" width="70"><br>
+<!--img src="assets/icons/amazon.png" width="70"--><br>
 Amazon
 </td>
 
 <td align="center">
-<img src="assets/icons/other.png" width="70"><br>
+<!--img src="assets/icons/other.png" width="70"--><br>
 Other CMS
 </td>
 </tr>
