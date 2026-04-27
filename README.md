@@ -106,7 +106,7 @@ Other CMS
 • Google Sheets<br>
 • CSV / Flat File Management<br>
 • Data Cleaning & Deduplication<br>
-• Basic Image Editing (Resize, Optimize)<br>
+• Basic Image Editing<br>
 • File Management<br>
 • Attention to Detail<br>
 • Strong Organizational Skills
