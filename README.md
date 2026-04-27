@@ -174,10 +174,10 @@ Other CMS
 
 </div>
 
-<table width="100%">
+<table align="center" width="100%">
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <b>💼 EXPERIENCE HIGHLIGHTS</b><br><br>
 
@@ -190,7 +190,7 @@ Other CMS
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
 <b>⭐ WHY CLIENTS WORK WITH ME</b><br><br>
 
