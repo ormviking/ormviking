@@ -258,7 +258,7 @@ into modern CMS solutions.
 👉 <a href="#">View more projects in my portfolio</a>
 </p>
 
-<h3 align="center">💬 CLIENT FEEDBACK ON UPWORK</h3>
+<h3 align="center">💬 CLIENT FEEDBACK</h3>
 
 <table align="center" width="100%">
 <tr>
@@ -267,7 +267,7 @@ into modern CMS solutions.
 
 <i>"Amazing to work with and communicates with high efficiency! Everything is done as asked and will always ask questions when in doubt! A true pleasure to work with."</i><br><br>
 
-<a href="#">— Long-term client</a>
+<a href="https://www.upwork.com/freelancers/~ТВОЙ_ID">— Long-term client (Upwork)</a>
 
 </td>
 
@@ -275,7 +275,7 @@ into modern CMS solutions.
 
 <i>"Completed the job successfully, quickly and in a professional manner. I would be happy to hire Aleksandra again. Thank you!"</i><br><br>
 
-<a href="#">— Upwork Client</a>
+<a href="https://www.upwork.com/freelancers/~ТВОЙ_ID">— Upwork Client</a>
 
 </td>
 
@@ -283,7 +283,7 @@ into modern CMS solutions.
 
 <i>"Great freelancer that completed the task quickly and precisely. Thank you."</i><br><br>
 
-<a href="#">— Upwork Client</a>
+<a href="https://www.upwork.com/freelancers/~ТВОЙ_ID">— Upwork Client</a>
 
 </td>
 
@@ -291,9 +291,8 @@ into modern CMS solutions.
 
 🏆 <b>100% Job Success</b><br><br>
 ⭐ <b>Top Rated Freelancer</b><br><br>
-📦 <b>12+ Completed Jobs</b><br><br>
-👍 <b>21+ Positive Reviews</b><br><br>
 
+<a href="https://www.fl.ru/users/ТВОЙ_НИК/">View my FL profile</a><br>
 <a href="https://www.upwork.com/freelancers/~ТВОЙ_ID">View my Upwork profile</a>
 
 </td>
