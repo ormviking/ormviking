@@ -25,7 +25,7 @@ so they are clean, structured and ready to scale.
 ✔ Product Listing & Upload<br>
 ✔ Catalog Management<br>
 ✔ Data Cleaning & Structuring<br>
-✔ Bulk Uploads (CSV, Excel, Flat Files)<br>
+✔ Bulk Uploads<br>
 ✔ Multilingual Product Content<br>
 ✔ Image & File Organization
 
