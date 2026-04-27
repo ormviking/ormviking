@@ -255,5 +255,5 @@ into modern CMS solutions.
 <br>
 
 <p align="center">
-👉 <a href="#">View more projects in my GitHub repositories</a>
+👉 <a href="#">View more projects in my portfolio</a>
 </p>
