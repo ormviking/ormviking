@@ -174,4 +174,33 @@ Other CMS
 
 </div>
 
+<table width="100%">
+<tr>
 
+<td width="50%" valign="top">
+
+<b>💼 EXPERIENCE HIGHLIGHTS</b><br><br>
+
+✔ 10+ years of experience in e-commerce & content management<br>
+✔ 7,000+ SKUs managed on Amazon (Vendor Central)<br>
+✔ 3,000+ products structured and uploaded in one catalog<br>
+✔ Worked with 20+ CMS and admin panels<br>
+✔ Handled data migration, flat files, bulk updates, and QA testing<br>
+✔ Long-term contracts and returning clients on Upwork
+
+</td>
+
+<td width="50%" valign="top">
+
+<b>⭐ WHY CLIENTS WORK WITH ME</b><br><br>
+
+✔ 100% Job Success on Upwork<br>
+✔ Clear & consistent communication<br>
+✔ High accuracy and attention to detail<br>
+✔ Fast turnaround and reliability<br>
+✔ Long-term partner mindset
+
+</td>
+
+</tr>
+</table>
