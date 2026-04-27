@@ -257,3 +257,46 @@ into modern CMS solutions.
 <p align="center">
 👉 <a href="#">View more projects in my portfolio</a>
 </p>
+
+<h3 align="center">💬 CLIENT FEEDBACK ON UPWORK</h3>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+<i>"Amazing to work with and communicates with high efficiency! Everything is done as asked and will always ask questions when in doubt! A true pleasure to work with."</i><br><br>
+
+<a href="#">— Long-term client</a>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<i>"Completed the job successfully, quickly and in a professional manner. I would be happy to hire Aleksandra again. Thank you!"</i><br><br>
+
+<a href="#">— Upwork Client</a>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<i>"Great freelancer that completed the task quickly and precisely. Thank you."</i><br><br>
+
+<a href="#">— Upwork Client</a>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+🏆 <b>100% Job Success</b><br><br>
+⭐ <b>Top Rated Freelancer</b><br><br>
+📦 <b>12+ Completed Jobs</b><br><br>
+👍 <b>21+ Positive Reviews</b><br><br>
+
+<a href="https://www.upwork.com/freelancers/~ТВОЙ_ID">View my Upwork profile</a>
+
+</td>
+
+</tr>
+</table>
