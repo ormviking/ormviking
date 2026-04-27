@@ -204,3 +204,56 @@ Other CMS
 
 </tr>
 </table>
+<h3 align="center">📁 FEATURED PROJECTS</h3>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+<b><a href="#">Amazon Product Listing<br>& Catalog Management</a></b><br><br>
+
+Managed 3,000+ SKUs on Amazon (US & CA).  
+Created flat files, fixed mismatches,  
+updated attributes and variations.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<b><a href="#">Bulk Upload & Data Import</a></b><br><br>
+
+Bulk upload via CSV/Excel / Flat Files  
+to WordPress, OpenCart, Bitrix,  
+PrestaShop and other CMS.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<b><a href="#">Catalog Cleanup<br>& Data Structuring</a></b><br><br>
+
+Cleaned, deduplicated and restructured  
+large catalogs, fixed attributes,  
+categories and product data.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<b><a href="#">Data Migration</a></b><br><br>
+
+Migrated product data from spreadsheets,  
+old systems and other platforms  
+into modern CMS solutions.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+👉 <a href="#">View more projects in my GitHub repositories</a>
+</p>
