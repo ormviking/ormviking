@@ -31,7 +31,7 @@ so they are clean, structured and ready to scale.
 <!-- CENTER -->
 <td width="33%" align="center">
 
-<b>🧰 Admin Panels & Platforms</b>
+<b>🧰 Admin Panels & Platforms</b><br><br>
 
 <table align="center">
 
