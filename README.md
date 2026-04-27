@@ -33,7 +33,7 @@ so they are clean, structured and ready to scale.
 
 <b>🧰 Admin Panels & Platforms</b><br><br>
 
-<table align="center">
+<table align="center" style="margin-top: 10px;">
 
 <tr>
 <td align="center">
