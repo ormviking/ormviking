@@ -292,8 +292,32 @@ into modern CMS solutions.
 🏆 <b>100% Job Success</b><br><br>
 ⭐ <b>Top Rated Freelancer</b><br><br>
 
-<a href="https://www.fl.ru/users/ТВОЙ_НИК/">View my FL profile</a><br>
-<a href="https://www.upwork.com/freelancers/~ТВОЙ_ID">View my Upwork profile</a>
+<a href="https://www.fl.ru/users/orm-viking/portfolio/">View my FL profile</a><br>
+<a href="https://www.upwork.com/freelancers/~018775d173c470278b">View my Upwork profile</a>
+
+</td>
+
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+
+<td align="center">
+
+<h3>🚀 Let's make your product catalog clean, consistent and ready to grow!</h3>
+
+📩 <b>Contact me:</b><br><br>
+
+👉 <a href="https://www.upwork.com/freelancers/~018775d173c470278b">Upwork Profile</a><br>
+👉 <a href="https://www.fl.ru/users/orm-viking/portfolio/">FL Profile</a><br>
+👉 <a href="mailto:aleks.melikhova.1992@gmail.com">aleks.melikhova.1992@gmail.com</a><br><br>
+
+💼 Collaboration is also possible directly via a Georgian Individual Entrepreneur (IE)
+
+<br><br>
+
+<sub>Due to the specifics of Georgian legislation, I do not work with residents of Georgia.</sub>
 
 </td>
 
