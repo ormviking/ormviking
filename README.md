@@ -11,13 +11,16 @@ so they are clean, structured and ready to scale.
   <img src="https://img.shields.io/badge/Organized-2ea043?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem%20Solver-f0883e?style=for-the-badge&logoColor=white" />
 </p>
+
 <table align="center" width="100%">
 <tr>
 
 <!-- LEFT -->
-<td width="33%" valign="top">
+<td width="33%" style="vertical-align: top;">
 
-<b>🛠️ What I Do</b><br><br>
+<div><b>🛠️ What I Do</b></div>
+
+<br>
 
 ✔ Product Listing & Upload<br>
 ✔ Catalog Management<br>
@@ -31,9 +34,11 @@ so they are clean, structured and ready to scale.
 <!-- CENTER -->
 <td width="33%" align="center" style="vertical-align: top;">
 
-<b>🧰 Admin Panels & Platforms</b><br><br>
+<div><b>🧰 Admin Panels & Platforms</b></div>
 
-<table align="center" style="margin-top: 10px;">
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
 
 <tr>
 <td align="center">
@@ -91,9 +96,11 @@ Other CMS
 </td>
 
 <!-- RIGHT -->
-<td width="33%" valign="top">
+<td width="33%" style="vertical-align: top;">
 
-<b>📊 Tools & Skills</b><br><br>
+<div><b>📊 Tools & Skills</b></div>
+
+<br>
 
 • Microsoft Excel (Advanced)<br>
 • Google Sheets<br>
@@ -108,6 +115,7 @@ Other CMS
 
 </tr>
 </table>
+
 <h2 align="center">My Workflow</h2>
 
 <div align="center">
