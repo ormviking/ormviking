@@ -323,3 +323,333 @@ into modern CMS solutions.
 
 </tr>
 </table>
+
+
+<h1 align="center">Привет, я Александра! 👋</h1>
+
+<p align="center">
+Я помогаю компаниям в сфере электронной коммерции организовывать, загружать и вести каталоги товаров,<br>
+чтобы они были чистыми, структурированными и готовыми к масштабированию.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Внимательность%20к%20деталям-6f42c1?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Надёжность-1f6feb?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Организованность-2ea043?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Решение%20проблем-f0883e?style=for-the-badge&logoColor=white" />
+</p>
+
+<table align="center" width="100%">
+<tr>
+
+<!-- LEFT -->
+
+<td width="33%" style="vertical-align: top;">
+
+<div><b>🛠️ Чем я занимаюсь</b></div>
+
+<br>
+
+✔ Размещение и загрузка товаров<br>
+✔ Управление каталогами<br>
+✔ Очистка и структурирование данных<br>
+✔ Массовые загрузки<br>
+✔ Многоязычный товарный контент<br>
+✔ Организация изображений и файлов
+
+</td>
+
+<!-- CENTER -->
+
+<td width="33%" align="center" style="vertical-align: top;">
+
+<div><b>🧰 Административные панели и платформы</b></div>
+
+<br>
+
+<table align="center" cellspacing="0" cellpadding="6">
+
+<tr>
+<td align="center">
+<!--img src="assets/icons/woocommerce.png" width="70"--><br>
+WooCommerce
+</td>
+
+<td align="center">
+<!--img src="assets/icons/prestashop.png" width="70"--><br>
+PrestaShop
+</td>
+
+<td align="center">
+<!--img src="assets/icons/wordpress.png" width="70"--><br>
+WordPress
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<!--img src="assets/icons/webflow.png" width="70"--><br>
+Webflow
+</td>
+
+<td align="center">
+<!--img src="assets/icons/opencart.png" width="70"--><br>
+OpenCart
+</td>
+
+<td align="center">
+<!--img src="assets/icons/bitrix.png" width="70"--><br>
+Bitrix24
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<!--img src="assets/icons/modx.png" width="70"--><br>
+MODX
+</td>
+
+<td align="center">
+<!--img src="assets/icons/amazon.png" width="70"--><br>
+Amazon
+</td>
+
+<td align="center">
+<!--img src="assets/icons/other.png" width="70"--><br>
+Другие CMS
+</td>
+</tr>
+
+</table>
+
+</td>
+
+<!-- RIGHT -->
+
+<td width="33%" style="vertical-align: top;">
+
+<div><b>📊 Инструменты и навыки</b></div>
+
+<br>
+
+• Microsoft Excel (продвинутый уровень)<br>
+• Google Таблицы<br>
+• Управление CSV-файлами и Flat File<br>
+• Очистка данных и удаление дубликатов<br>
+• Базовое редактирование изображений<br>
+• Управление файлами<br>
+• Внимание к деталям<br>
+• Сильные организационные навыки
+
+</td>
+
+</tr>
+</table>
+
+<h2 align="center">Мой рабочий процесс</h2>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/search.png"/><br>
+<b>1. Анализ</b><br>
+<sub>Изучение требований<br>и доступов</sub>
+</td>
+
+<td align="center" width="60">
+<b style="font-size:28px;">➜</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/settings.png"/><br>
+<b>2. Подготовка</b><br>
+<sub>Настройка структуры<br>и образца</sub>
+</td>
+
+<td align="center" width="60">
+<b style="font-size:28px;">➜</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/upload.png"/><br>
+<b>3. Загрузка</b><br>
+<sub>Массовая загрузка и<br>обработка данных</sub>
+</td>
+
+<td align="center" width="60">
+<b style="font-size:28px;">➜</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/checked.png"/><br>
+<b>4. Проверка</b><br>
+<sub>Контроль качества<br>и исправление ошибок</sub>
+</td>
+
+<td align="center" width="60">
+<b style="font-size:28px;">➜</b>
+</td>
+
+<td align="center">
+<img src="https://img.icons8.com/fluency/48/000000/delivery.png"/><br>
+<b>5. Сдача работы</b><br>
+<sub>Финальная проверка<br>и передача результата</sub>
+</td>
+
+</tr>
+</table>
+
+</div>
+<br>
+<table align="center" width="100%">
+<tr>
+
+<td width="50%" align="center" valign="top">
+
+<b>💼 ОСНОВНЫЕ ДОСТИЖЕНИЯ</b><br><br>
+
+✔ Более 10 лет опыта в электронной коммерции и управлении контентом<br>
+✔ Управление более чем 7 000 SKU на Amazon (Vendor Central)<br>
+✔ Структурирование и загрузка более 3 000 товаров в одном каталоге<br>
+✔ Работа с более чем 20 CMS и административными панелями<br>
+✔ Миграция данных, работа с Flat File, массовые обновления и QA-тестирование<br>
+✔ Долгосрочные контракты и постоянные клиенты на Upwork
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<b>⭐ ПОЧЕМУ КЛИЕНТЫ РАБОТАЮТ СО МНОЙ</b><br><br>
+
+✔ 100% Job Success на Upwork<br>
+✔ Понятная и последовательная коммуникация<br>
+✔ Высокая точность и внимание к деталям<br>
+✔ Быстрое выполнение работы и надёжность<br>
+✔ Ориентация на долгосрочное сотрудничество
+
+</td>
+
+</tr>
+</table>
+<h3 align="center">📁 ИЗБРАННЫЕ ПРОЕКТЫ</h3>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+<b><a href="#">Размещение товаров на Amazon<br>и управление каталогом</a></b><br><br>
+
+Управление более чем 3 000 SKU на Amazon (США и Канада).
+Создание Flat File, исправление несоответствий,
+обновление атрибутов и вариаций.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<b><a href="#">Массовая загрузка и импорт данных</a></b><br><br>
+
+Массовая загрузка через CSV, Excel и Flat File
+в WordPress, OpenCart, Bitrix,
+PrestaShop и другие CMS.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<b><a href="#">Очистка каталога<br>и структурирование данных</a></b><br><br>
+
+Очистка, удаление дубликатов и реструктуризация
+крупных каталогов, исправление атрибутов,
+категорий и данных о товарах.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<b><a href="#">Миграция данных</a></b><br><br>
+
+Перенос товарных данных из электронных таблиц,
+старых систем и других платформ
+в современные CMS.
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+👉 <a href="#">Посмотреть больше проектов в моём портфолио</a>
+</p>
+
+<h3 align="center">💬 ОТЗЫВЫ КЛИЕНТОВ</h3>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+<i>«С Александрой замечательно работать, она очень эффективно общается! Всё выполняется в соответствии с требованиями, а при возникновении сомнений она всегда задаёт вопросы! Работать с ней — настоящее удовольствие».</i><br><br>
+
+<a href="https://www.upwork.com/freelancers/~ТВОЙ_ID">— Долгосрочный клиент (Upwork)</a>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<i>«Работа была успешно, быстро и профессионально выполнена. Я буду рада снова нанять Александру. Спасибо!»</i><br><br>
+
+<a href="https://www.upwork.com/freelancers/~ТВОЙ_ID">— Клиент Upwork</a>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<i>«Отличный фрилансер, который выполнил задачу быстро и точно. Спасибо».</i><br><br>
+
+<a href="https://www.upwork.com/freelancers/~ТВОЙ_ID">— Клиент Upwork</a>
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+🏆 <b>100% Job Success</b><br><br>
+⭐ <b>Фрилансер со статусом Top Rated</b><br><br>
+
+<a href="https://www.fl.ru/users/orm-viking/portfolio/">Посмотреть мой профиль на FL</a><br> <a href="https://www.upwork.com/freelancers/~018775d173c470278b">Посмотреть мой профиль на Upwork</a>
+
+</td>
+
+</tr>
+</table>
+
+<table align="center" width="100%">
+<tr>
+
+<td align="center">
+
+<h3>🚀 Сделаем ваш каталог товаров чистым, единообразным и готовым к росту!</h3>
+
+📩 <b>Связаться со мной:</b><br><br>
+
+👉 <a href="https://www.upwork.com/freelancers/~018775d173c470278b">Профиль на Upwork</a><br>
+👉 <a href="https://www.fl.ru/users/orm-viking/portfolio/">Профиль на FL</a><br>
+👉 <a href="mailto:aleks.melikhova.1992@gmail.com">[aleks.melikhova.1992@gmail.com](mailto:aleks.melikhova.1992@gmail.com)</a><br><br>
+
+💼 Также возможно прямое сотрудничество через грузинского индивидуального предпринимателя (ИП)
+
+<br><br>
+
+<sub>В связи с особенностями законодательства Грузии я не работаю с резидентами Грузии.</sub>
+
+</td>
+
+</tr>
+</table>
+
