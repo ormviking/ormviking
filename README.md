@@ -258,7 +258,7 @@ into modern CMS solutions.
 <br>
 
 <p align="center">
-👉 <a href="#">View more projects in my portfolio</a>
+👉 <a href="https://github.com/ormviking/portfolio-en/blob/main/portfolio.md">View more projects in my portfolio</a>
 </p>
 
 <h3 align="center">💬 CLIENT FEEDBACK</h3>
