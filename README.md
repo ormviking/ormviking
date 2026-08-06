@@ -625,6 +625,7 @@ PrestaShop и другие CMS.
 
 🏆 <b>100% Job Success</b><br><br>
 ⭐ <b>Фрилансер со статусом Top Rated</b><br><br>
+⭐⭐⭐⭐⭐<b>Рейтинг 5.0 на FL</b><br><br>
 
 <a href="https://www.fl.ru/users/orm-viking/portfolio/">Посмотреть мой профиль на FL</a><br> <a href="https://www.upwork.com/freelancers/~018775d173c470278b">Посмотреть мой профиль на Upwork</a>
 
@@ -638,19 +639,20 @@ PrestaShop и другие CMS.
 
 <td align="center">
 
-<h3>🚀 Сделаем ваш каталог товаров чистым, единообразным и готовым к росту!</h3>
+<h3>🚀 Помогу Вашему товарному бизнесу вырасти!</h3>
 
 📩 <b>Связаться со мной:</b><br><br>
 
 👉 <a href="https://www.upwork.com/freelancers/~018775d173c470278b">Профиль на Upwork</a><br>
 👉 <a href="https://www.fl.ru/users/orm-viking/portfolio/">Профиль на FL</a><br>
+👉 <a href="https://kwork.ru/user/orm-viking">Профиль на KWORK</a><br>
 👉 <a href="mailto:aleks.melikhova.1992@gmail.com">[aleks.melikhova.1992@gmail.com](mailto:aleks.melikhova.1992@gmail.com)</a><br><br>
 
-💼 Также возможно прямое сотрудничество через грузинского индивидуального предпринимателя (ИП)
+💼 Также возможно прямое сотрудничество через мое грузинское ИП или самозанятость РФ.
 
 <br><br>
 
-<sub>В связи с особенностями законодательства Грузии я не работаю с резидентами Грузии.</sub>
+<sub>В связи с особенностями законодательства Грузии я не могу работать с резидентами Грузии.</sub>
 
 </td>
 
