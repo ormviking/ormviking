@@ -589,7 +589,7 @@ PrestaShop и другие CMS.
 <br>
 
 <p align="center">
-👉 <a href="#">Посмотреть больше проектов в моём портфолио</a>
+👉 <a href="https://github.com/ormviking/portfolio-ru/blob/main/portfolio.md">Посмотреть больше проектов в моём портфолио</a>
 </p>
 
 <h3 align="center">💬 ОТЗЫВЫ КЛИЕНТОВ</h3>
