@@ -459,7 +459,7 @@ Amazon
 
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/search.png"/><br>
-<b>1. Анализ</b><br>
+<b>Анализ</b><br>
 </td>
 
 <td align="center" width="60">
@@ -468,7 +468,7 @@ Amazon
 
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/settings.png"/><br>
-<b>2. Подготовка</b><br>
+<b>Подготовка</b><br>
 </td>
 
 <td align="center" width="60">
@@ -477,7 +477,7 @@ Amazon
 
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/upload.png"/><br>
-<b>3. Загрузка</b><br>
+<b>Загрузка</b><br>
 </td>
 
 <td align="center" width="60">
@@ -486,7 +486,7 @@ Amazon
 
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/checked.png"/><br>
-<b>4. Проверка</b><br>
+<b>Проверка</b><br>
 </td>
 
 <td align="center" width="60">
@@ -495,7 +495,7 @@ Amazon
 
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/delivery.png"/><br>
-<b>5. Сдача работы</b><br>
+<b>Сдача работы</b><br>
 </td>
 
 </tr>
