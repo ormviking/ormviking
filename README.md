@@ -460,7 +460,6 @@ Amazon
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/search.png"/><br>
 <b>1. Анализ</b><br>
-<sub>Изучение требований<br> | получение доступов</sub>
 </td>
 
 <td align="center" width="60">
@@ -470,7 +469,6 @@ Amazon
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/settings.png"/><br>
 <b>2. Подготовка</b><br>
-<sub>Настройка структуры<br>и образца</sub>
 </td>
 
 <td align="center" width="60">
@@ -480,7 +478,6 @@ Amazon
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/upload.png"/><br>
 <b>3. Загрузка</b><br>
-<sub>Массовая загрузка и<br>обработка данных</sub>
 </td>
 
 <td align="center" width="60">
@@ -490,7 +487,6 @@ Amazon
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/checked.png"/><br>
 <b>4. Проверка</b><br>
-<sub>Контроль качества<br>и исправление ошибок</sub>
 </td>
 
 <td align="center" width="60">
@@ -500,7 +496,6 @@ Amazon
 <td align="center">
 <img src="https://img.icons8.com/fluency/48/000000/delivery.png"/><br>
 <b>5. Сдача работы</b><br>
-<sub>Финальная проверка<br>и передача результата</sub>
 </td>
 
 </tr>
@@ -555,7 +550,7 @@ Amazon
 
 <td width="25%" align="center" valign="top">
 
-<b><a href="#">Массовая загрузка и импорт данных</a></b><br><br>
+<b><a href="https://github.com/ormviking/portfolio-ru/blob/main/files/ps-01.md">Массовая загрузка и импорт данных</a></b><br><br>
 
 Массовая загрузка через CSV, Excel и Flat File
 в WordPress, OpenCart, Bitrix,
